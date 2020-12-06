@@ -6,3 +6,8 @@ merge (с конфликтами слияния)
 content content content
 content content content
 content content content
+
+merge (с конфликтами слияния)
+feature ветка feature ветка feature ветка
+feature ветка feature ветка feature ветка
+feature ветка feature ветка feature ветка

@@ -11,3 +11,5 @@ merge (с конфликтами слияния)
 feature ветка feature ветка feature ветка
 feature ветка feature ветка feature ветка
 feature ветка feature ветка feature ветка
+
+pull check

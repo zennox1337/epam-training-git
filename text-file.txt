@@ -24,5 +24,3 @@ changes for rebase changes for rebase changes for rebase
 
 
 rebase in feature rebase in feature rebase in feature
-
-text for revert

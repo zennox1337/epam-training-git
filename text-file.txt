@@ -21,3 +21,6 @@ pull check with conflict
 jkjkfdgjdkfgjhgfdjkhdfjgkhdfjgkhdfgjk
 
 changes for rebase changes for rebase changes for rebase
+
+
+rebase in feature rebase in feature rebase in feature
